@@ -1,3 +1,5 @@
+#inicio del programa
+#autores:gustavo paez,victor marcano,andres chavez,andres ng,andres sosa 
 import numpy as np
 from sympy import *
 import matplotlib.pyplot as plt
@@ -35,3 +37,4 @@ ax.set_ylabel('Y')
 ax.set_zlabel('Z')
 
 plt.show()
+#fin del programa 
