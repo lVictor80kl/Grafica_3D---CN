@@ -1,7 +1,7 @@
 import numpy as np
 from sympy import *
 import matplotlib.pyplot as plt
-"Nombres ➤ Victor Marcano, Andres Ng, Gustavo Paéz | Calculo numerico"
+"Nombres ➤ Victor Marcano, Andres Ng, Gustavo Paéz, Andres Chavéz, Andres Sosa (Andre´s^3) | Calculo numerico"
 
 # Ecuaciones
 
