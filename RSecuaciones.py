@@ -1,5 +1,4 @@
-#inicio del programa
-#autores:gustavo paez,victor marcano,andres chavez,andres ng,andres sosa 
+#inicio del programa 
 import numpy as np
 from sympy import *
 import matplotlib.pyplot as plt
